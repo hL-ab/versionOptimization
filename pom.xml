@@ -7,7 +7,7 @@
 
   <groupId>hL-ab</groupId>
   <artifactId>versionOptimization</artifactId>
-  <version>0.1.001-SNAPSHOT</version>
+  <version>0.1.002-SNAPSHOT</version>
   <packaging>pom</packaging>
 
   <name>versionOptimization</name>
