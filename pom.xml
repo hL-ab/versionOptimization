@@ -69,7 +69,7 @@
     <lucene.version>8.5.2</lucene.version>
     <IKAnalyzer-lucene.version>8.0.0</IKAnalyzer-lucene.version>
     <dozer.version>5.5.1</dozer.version>
-    <ant.version>1.10.8</ant.version>
+    <ant.version>1.10.9</ant.version>
     <freemarker.version>2.3.30</freemarker.version>
     <activiti.version>7.1.0.M6</activiti.version>
   </properties>
